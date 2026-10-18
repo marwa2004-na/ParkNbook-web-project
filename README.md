@@ -42,6 +42,10 @@ Update date slot column to the system date before running.
 ## Note: 
 This project was developed for academic purposes and uses sample data. Do not use real customer information, passwords, or payment details.
 
+## Project Documentation
+
+The project report includes the system requirements, background study, database design, implementation details, website screenshots, testing, and conclusion.
+
 ## Project Structure
 
 The repository contains the website source code, database files, and related project resources.

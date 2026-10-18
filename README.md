@@ -37,6 +37,11 @@ Update the database connection settings in the PHP configuration file.
 
 Open the project in your browser at http://localhost/ParkNbook-web-project/.
 
+Update date slot column to the system date before running.
+
+## Note: 
+This project was developed for academic purposes and uses sample data. Do not use real customer information, passwords, or payment details.
+
 ## Project Structure
 
 The repository contains the website source code, database files, and related project resources.
